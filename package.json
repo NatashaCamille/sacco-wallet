@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@web3-onboard/core": "^2.23.0",
+    "@web3-onboard/injected-wallets": "^2.11.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "web3": "^4.15.0",
+    "zksync-web3": "^0.17.1"
+  }
+}
